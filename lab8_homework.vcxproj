@@ -126,7 +126,7 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\lab12_homework\README.md" />
+    <None Include="README.md" />
     <None Include="schema.drawio" />
   </ItemGroup>
   <ItemGroup>
